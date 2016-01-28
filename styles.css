@@ -1,0 +1,11 @@
+.red {
+  font-family: cursive;
+  color: red;
+
+}
+
+.important {
+  font-family: cursive;
+  color: red;
+  background-color: lightgrey;
+}
