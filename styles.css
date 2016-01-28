@@ -9,3 +9,23 @@
   color: red;
   background-color: lightgrey;
 }
+
+.fish-type {
+  font-family: cursive;
+  color: blue;
+}
+
+img {
+  float:left;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color:lightgrey;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
